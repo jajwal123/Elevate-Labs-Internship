@@ -1,2 +1,1 @@
-Nmap-scan.png
-Ipaddress.png
+Images of Scan
