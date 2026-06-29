@@ -17,20 +17,20 @@ Open Command Prompt and run:
 ipconfig
 ```
 
-Identify your IPv4 address and network range (for example: `192.168.1.0/24`).
+Identify your IPv4 address and network range (for example: `192.168.1.0`).
 
 ### 2. Perform a TCP SYN Scan
 
 Run the following command:
 
 ```bash
-nmap -sS 192.168.1.0/24
+nmap -sS 192.168.1.0
 ```
 
 To save the results:
 
 ```bash
-nmap -sS 192.168.1.0/24 -oN scan.txt
+nmap -sS 192.168.1.0 -oN scan.txt
 ```
 
 ## Results
@@ -49,8 +49,9 @@ This task provided hands-on experience with Nmap and demonstrated how to identif
 
 ## Files Included
 - `README.md`
-- `scan.txt`
-- `screenshots/ipconfig.png`
+- 'Interview Question'
+- `scan_results.txt`
+- `screenshots/ipaddress.png`
 - `screenshots/nmap_scan.png`
 
 ## Author
