@@ -7,7 +7,7 @@ This repository contains the tasks completed during my Cyber Security Internship
 ### Task 1 – Scan Your Local Network for Open Ports
 - Performed TCP SYN scan using Nmap.
 - Identified active hosts and open ports.
-- Documented findings.
+- Documented the findings in a report.
 
 ### Task 2 – Analyze a Phishing Email Sample
 - Analyzed a phishing email sample.
