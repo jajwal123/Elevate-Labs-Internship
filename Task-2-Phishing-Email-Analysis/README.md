@@ -20,7 +20,8 @@ Identify phishing characteristics in a suspicious email sample.
 - README.md
 - phishing_report.md
 - sample_email.txt
-- screenshots/
+- screenshots
+- interviews question and answer
 
 ## Conclusion
 This task improved my understanding of phishing attacks, email spoofing, social engineering, and email threat analysis.
