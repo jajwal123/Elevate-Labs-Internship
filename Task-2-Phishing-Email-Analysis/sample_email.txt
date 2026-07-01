@@ -1,0 +1,21 @@
+From: PayPal Support <support@paypal-security.com>
+
+To: me@example.com
+
+Subject: Urgent: Verify Your Account
+
+Dear Customer,
+
+We noticed unusual activity on your PayPal account.
+
+Your account has been temporarily limited.
+
+Please verify your account by clicking the link below.
+
+https://paypal-security-login.com
+
+If you do not verify your account within 24 hours, your account may be suspended.
+
+Thank you,
+
+PayPal Support Team
